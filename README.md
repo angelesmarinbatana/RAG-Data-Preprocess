@@ -1,4 +1,4 @@
-# RAG-Model
+# RAG
 
 ### This folder contains the following files 
   1. **The Jupyter notebook & python code used to clean the CVE**
